@@ -16,5 +16,5 @@ with open('reminder.txt', 'r') as file:
 twitter = tweepy.API(auth)
 
 while True:
-    twitter.update_status(text)
     time.sleep(1800)
+    twitter.update_status(text)
