@@ -1490,3 +1490,5 @@ env/lib/python3.8/site-packages/urllib3/util/ssl_.py
 env/lib/python3.8/site-packages/urllib3/util/timeout.py
 env/lib/python3.8/site-packages/urllib3/util/url.py
 env/lib/python3.8/site-packages/urllib3/util/wait.py
+.DS_Store
+__pycache__/secrets.cpython-38.pyc
