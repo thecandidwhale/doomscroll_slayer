@@ -16,3 +16,8 @@ with os.scandir('./tweet_txt') as dirs:
         tweets.append(entry.name)
 
 #print(tweets) bot can list txt files from folder
+
+toSend = random.choice(tweets) #random can repeat which is not good for bot.
+#how to fix?
+
+print(toSend)
